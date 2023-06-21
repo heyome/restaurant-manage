@@ -1,0 +1,38 @@
+.update-user {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 20px;
+    height: 100vh;
+    box-sizing: border-box;
+  }
+  
+  .update-user-title {
+    margin-bottom: 20px;
+  }
+  
+  .back-link {
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .update-user-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .update-user-label {
+    margin-bottom: 10px;
+  }
+  
+  .update-user-input {
+    margin-top: 5px;
+  }
+  
+  .update-user-btn {
+    margin-top: 10px;
+  }
+  

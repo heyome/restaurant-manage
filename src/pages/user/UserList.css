@@ -1,0 +1,35 @@
+.user-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 20px;
+    height: 100vh;
+    box-sizing: border-box;
+  }
+  
+  .user-list-title {
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    width: 80%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #e0e0e0;
+  }
+  
+  .user-delete-btn,
+  .user-update-link {
+    margin-right: 10px;
+  }
+  
