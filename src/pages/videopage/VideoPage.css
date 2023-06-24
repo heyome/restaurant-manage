@@ -1,0 +1,36 @@
+.video-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 20px;
+    height: 100vh;
+    box-sizing: border-box;
+  }
+  
+  .video-page-title {
+    margin-bottom: 20px;
+  }
+  
+  .video-container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+    background-color: #e0e0e0;
+  }
+  
+  .video-upload-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .video-upload-btn {
+    margin-top: 10px;
+  }
+  

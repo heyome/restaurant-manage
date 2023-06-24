@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import UserList from './pages/user/UserList';
-import VideoPage from './pages/VideoPage';
-import PicturePage from './pages/PicturePage';
+import VideoPage from './pages/videopage/VideoPage';
+import PicturePage from './pages/picturepage/PicturePage';
 import MenuPage from './pages/MenuPage';
 import OrderPage from './pages/OrderPage';
 import Home from './pages/Home';
